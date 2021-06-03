@@ -1,4 +1,5 @@
-variable "db_name" {}
-variable "db_user" {}
-variable "db_pass" {}
+variable "TFVPC" {}
 
+variable "Private-Subnet-1" {}
+
+variable "Private-Subnet-2" {}
