@@ -1,5 +1,3 @@
 variable "TFVPC" {}
-
-variable "Private-Subnet-1" {}
-
-variable "Private-Subnet-2" {}
+variable "Public-Subnet-1" {}
+variable "Public-Subnet-2" {}
